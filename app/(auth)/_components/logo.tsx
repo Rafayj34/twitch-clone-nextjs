@@ -23,7 +23,7 @@ export const Logo = () => {
             font.className)}>
                 <p className="text-xl font-semibold">Pakflix</p>
                 <p className="text-sm text-muted-foreground">
-                    Lets Play
+                    Let&apos;s Play
                     </p>
             </div>
         </div>
